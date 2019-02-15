@@ -1,0 +1,9 @@
+title = "Senran Kagura 2 Deep Crimson"
+description = "Senran Kagura 2: Deep Crimson for Nintendo 3DS family systems is a fast-paced beat ‘em up game with over-the-top combo chains plenty of  playable characters, hilarious cutscenes and an abundance of action!"
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000165800"
+region = "eur"
+release_date = "2015-08-27"
